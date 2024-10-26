@@ -90,8 +90,11 @@ return 0;
 
 ## OUTPUT
 
+1.Output of C program that illustrates files copying:
+![WhatsApp Image 2024-10-26 at 16 03 17_bf3427e3](https://github.com/user-attachments/assets/fee1860a-4225-4bed-a486-7262d33f127f)
+![WhatsApp Image 2024-10-26 at 16 03 27_0ca94de6](https://github.com/user-attachments/assets/7f08a891-c50d-4355-8831-4d7170d1bdf9)
 
-
+2.To Write a C program that illustrates files locking:
 
 
 # RESULT:
